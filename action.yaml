@@ -1,4 +1,5 @@
 name: Matt's GitHub Actions Demo
+description: This is Matt's test of moving an action to a different org. Don't us this action!
 run-name: ${{ github.actor }} is testing out GitHub Actions 🚀
 on: [push]
 jobs:
